@@ -59,3 +59,8 @@ a {
     background-color: rgba(21, 20, 51, 0.8);
     z-index: -1;
 }
+
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
