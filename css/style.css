@@ -64,3 +64,15 @@ section {
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
+.card-effect {
+    box-shadow: var(--box-shadow);
+    background-color: #fff;
+    padding: 25px;
+    transition: all 0.35s ease; 
+}
+
+.card-effect:hover {
+    box-shadow: none;
+    transform: ;
+}
